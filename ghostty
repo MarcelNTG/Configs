@@ -1,0 +1,4 @@
+theme = "vscode"
+background-opacity = 0.8
+background-blur = true
+scrollback-limit = 100000000
